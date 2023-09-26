@@ -10,14 +10,6 @@ It also provides a customer alert system via a Telegram bot based on market cond
 - Tracks customer purchases on the website and analyzes market conditions.
 - Sends real-time alerts to customers through a Telegram bot for informed trading decisions.
 
-## Prerequisites
-Before getting started with this project, ensure that you have the following components in place:
-
-- Python 3.x
-- Required Python packages (specified in `requirements.txt`)
-- A Coinex API account with API keys generated.
-- A Telegram bot token and chat ID for customer alert notifications.
-
 ## Installation
 1. Clone this repository to your local machine.
 
